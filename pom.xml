@@ -14,9 +14,7 @@
     <packaging>pom</packaging>
     <name>maven-project</name>
     <description>maven-project</description>
-    <modules>
-        <module>web-app</module>
-    </modules>
+
     <properties>
         <java.version>17</java.version>
     </properties>
