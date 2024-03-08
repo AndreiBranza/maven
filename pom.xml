@@ -16,6 +16,7 @@
     <description>maven-project</description>
     <modules>
         <module>web-app</module>
+        <module>web-model</module>
     </modules>
 
     <properties>
