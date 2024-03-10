@@ -22,6 +22,8 @@
         <module>web-app</module>
         <module>web-model</module>
         <module>pojo-testing</module>
+        <module>junit4-testing</module>
+        <module>junit5-testing</module>
     </modules>
 
     <properties>
