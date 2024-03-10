@@ -6,10 +6,12 @@
     <parent>
         <groupId>com.andrei.personal</groupId>
         <artifactId>maven-project</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>${revision}</version>
     </parent>
 
     <artifactId>pojo-testing</artifactId>
+
+    <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
